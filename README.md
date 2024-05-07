@@ -17,8 +17,8 @@ This work is only allowed for academic research use. For commercial use, please 
 ## Download
 - Clone this repo:
 ```bash
-git clone https://github.com/bzlmh/cdcrecognition
-cd CDCRecognition
+git clone https://github.com/bzlmh/CHCRecognition
+cd CHCRecognition
 ```
 ## Requirements
 - Install the requirements.txt
