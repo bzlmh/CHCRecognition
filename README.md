@@ -24,8 +24,8 @@ cd CHCRecognition
 - Install the requirements.txt
 
 ## How to get CHC-Dataset
-- [CDCDataset](https://pan.baidu.com/s/1AG990agFmgl6jJhNrWJTkQ?pwd=vrdn)
-#### Detailed information of CDC-Dataset
+- [CHCDataset](https://pan.baidu.com/s/1AG990agFmgl6jJhNrWJTkQ?pwd=vrdn)
+#### Detailed information of CHC-Dataset
 | Dataset    | Character number | Sample number | Sample size |
 |:----------:|:----------------:|:-------------:|:-----------:|
 | Augmented  |       600        |    19,958     |    64×64    |
@@ -53,6 +53,6 @@ python test.py
 - Specifying the batch size and the number of epochs could be done inside the code.
 #### Other Datasets and Papers
 - [Multi-scene ancient Chinese text recognition](https://1drv.ms/u/s!AqAU14ep3HF7bhNy8KcOtjfEpbI) 
-- [OBC306: A Large-Scale Oracle Bone Character Recognition Dataset](https://www.omniglot.com/chinese/jiaguwen.htm) 
+- [OBC306: A Large-Scale Oracle Bone Character Recognition Dataset](https://www.omniglot.com/chinese/jiaguwen.htm) -
 - [CASIA-AHCDB: A Large-Scale Chinese Ancient Handwritten Characters Database](http://www.nlpr.ia.ac.cn/databases/handwriting/Offline_database.html)
 
