@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 
 class dataloader(object):
     def __init__(self,path, transform):
-        # 预处理过程
 
         traindir = os.path.join(path, './train_data')
         testdir = os.path.join(path, './val_data')
