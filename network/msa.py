@@ -56,7 +56,6 @@ class Scalemodule(nn.Module):
         out = self.softmax(out.view(m, n, -1))
         out = out.view(m, n, p, q)
         out = out.expand(x.shape[0], x.shape[1], x.shape[2], x.shape[3])
-        # 将输入与输出相乘并加到原输入上
         out = torch.mul(out, x)
         out = out + x
         return out
