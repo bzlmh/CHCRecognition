@@ -1,8 +1,8 @@
-# EfficientNetV2++: An efficient handwritten Chinese character recognition model based on capturing multi-style attention
+# Ancient Handwritten Chinese Character Recognition: A Dataset and Multi-style  Attention-based Learning Scheme
 ## License
 This work is only allowed for academic research use. For commercial use, please contact the author.
 ## Structure
-- CDC_Dataset: Chinese character dataset
+- CHC_Dataset: Chinese character dataset
 - checkpoints: Weight files
 - confidencs: Confidence data
 - enhance: Character style enhancement
