@@ -8,7 +8,7 @@ This work is only allowed for academic research use. For commercial use, please 
 - enhance: Character style enhancement
 - logs: Logs
 - models: Model zoo
-  - network: EfficientNetv2++ and MSA modules
+- network: EfficientNetv2++ and MSA modules
 - utils: Utilities
 - scripts: Additional scripts
 - dataloder.py
