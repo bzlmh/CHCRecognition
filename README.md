@@ -1,6 +1,6 @@
 # Ancient Handwritten Chinese Character Recognition: A Dataset and Multi-style  Attention-based Learning Scheme
 ## License
-This is the official implementation for our paper [RA-GAN: Region-Adaptive GAN for Binarization on Degraded Document Image]. We have submitted our paper for publication and it is under review. The source codes will be updated here once the paper is accepted.
+This is the official implementation for our paper [Ancient Handwritten Chinese Character Recognition: A Dataset and Multi-style  Attention-based Learning Scheme]. We have submitted our paper for publication and it is under review. The source codes will be updated here once the paper is accepted.
 ## Structure
 - CHC_Dataset: Chinese character dataset
 - checkpoints: Weight files
